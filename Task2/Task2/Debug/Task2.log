@@ -1,0 +1,4 @@
+﻿  Task2.cpp
+c:\users\gulyash\source\repos\task2\task2\task2.cpp(22): warning C4101: a: неиспользованная локальная переменная
+c:\users\gulyash\source\repos\task2\task2\task2.cpp(22): warning C4101: b: неиспользованная локальная переменная
+  Task2.vcxproj -> C:\Users\Gulyash\source\repos\Task2\Debug\Task2.exe
